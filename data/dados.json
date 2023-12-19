@@ -1,0 +1,53 @@
+[
+  {
+    "categoria": "Personagens",
+    "itens": [
+
+      {
+        "nome": "chewbacca",
+        "img": "/assets/imgs/img1.jpeg",
+        "link": "https://www.starwars.com/databank/chewbacca"
+        },
+        {
+          "nome": "Darth Vader",
+          "img": "/assets/imgs/img2.jpg",
+          "link": "https://www.starwars.com/databank/darth-vader"
+          },
+          {
+            "nome": "obi-wan kenobi",
+            "img": "/assets/imgs/img3.jpg",
+            "link": "https://www.starwars.com/databank/obi-wan-kenobi"
+            },
+          {
+            "nome": "Rey skywalker",
+            "img": "/assets/imgs/img4.jpg",
+            "link": "https://www.starwars.com/databank/rey"
+            },
+          {
+            "nome": "YODA",
+            "img": "/assets/imgs/img5.jpg",
+            "link": "https://www.starwars.com/databank/yoda"
+            }
+
+    ]
+  },
+  {
+    "categoria": "Naves",
+    "itens": [
+
+      {
+        "nome": "Millennium Falcon",
+        "img": "/assets/imgs/img6.jpg",
+        "link": "https://starwars.fandom.com/pt/wiki/Millennium_Falcon"
+        },
+
+      {
+        "nome": "X Wing",
+        "img": "/assets/imgs/img7.jpeg",
+        "link": "https://starwars.fandom.com/pt/wiki/Ca%C3%A7a_estelar_X-wing"
+        }
+
+
+    ]
+  }
+]
